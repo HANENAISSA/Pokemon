@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="list_pokemons">List Pokemons</string>
+    <string name="app_title">Pika Pika</string>
+    <string name="app_subtitle">Let\'s discover new world</string>
+    <string name="app_developer">Aissa Hanen</string>
+    <string name="pokemon_photo_desc">Pokemon Photo</string>
+    <string name="favorite_icon_desc">Favorite icon</string>
+    <string name="pokemon_name">Name :</string>
+    <string name="pokemon_category">Category :</string>
+    <string name="pokemon_attack">Attack :</string>
+    <string name="pokemon_defense">Defense :</string>
+</resources>
